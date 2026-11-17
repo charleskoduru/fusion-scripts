@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"charles koduru",
+	"description":	{
+		"":	"use sliders to control the end effector"
+	},
+	"version":	"",
+	"supportedOS":	"windows",
+	"editEnabled":	true,
+	"iconFilename":	"ScriptIcon.svg"
+}

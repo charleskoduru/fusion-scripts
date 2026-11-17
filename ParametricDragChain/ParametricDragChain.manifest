@@ -1,0 +1,12 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "id": "c9865714-3407-47b9-a45c-30559ee88b98",
+  "author": "OpenAI",
+  "description": {
+    "": "Add linked CableChain links with matching -60 to 0 degree revolute limits using LinkCount."
+  },
+  "version": "1.4.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}
